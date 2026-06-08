@@ -2,7 +2,7 @@ import { Link } from "react-router"
 
 export default function Nav() {
   return (
-    <nav className="w-full h-[14%] p-[2%] px-[10%] flex justify-evenly  fixed top-0 z-10">
+    <nav className="w-full h-[13.5%] p-[2%] px-[10%] flex justify-evenly  fixed top-0 z-10">
         {/* logo */}
         <div className="w-[15%] shadow-xl bg-white h-full rounded-[50px] p-[0.5%] flex justify-start items-center gap-[5%]">
           <img src="/public/YRlogo.jpg" alt="" className="h-full rounded-[100px]"/>
